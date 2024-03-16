@@ -1,4 +1,4 @@
-# Procom-24-ChatbotCompetition
+# Procom-24-ChatCraftCompetition
 
 Welcome to the Chatbot Challenge, an exciting competition designed to test your skills in both fine-tuning existing language models and crafting original chatbots. This dual-round competition offers an opportunity to showcase your expertise and explore the world of chatbots while learning valuable new insights.
 
